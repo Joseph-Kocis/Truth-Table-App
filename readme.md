@@ -6,6 +6,6 @@ The goal of this project to to generate truth tables given a propositional logic
 
 Equations are stored in `UserDefaults`, so they persist even after the application is quit.
 
-![Start Screen](Images/Start%20Screen.png) ![Enter Equation](Images/Enter%20Equation.png)
+<img src="Images/Start%20Screen.png" width="100"/> <img src="Images/Enter%20Equation.png" width="100"/>
 
-![1](Images/1.png) ![2](Images/2.png) ![3](Images/3.png)
+<img src="Images/1.png" width="100"/> <img src="Images/2.png" width="100"/> <img src="Images/3.png" width="100"/>
